@@ -1,0 +1,94 @@
+.navbar {
+  padding: 0 10px;
+}
+
+*.action-edit {
+  color: blue;
+}
+
+*.action-delete {
+  color: red;
+}
+
+*.action-nonpublished {
+  color: green;
+}
+
+*.action-published {
+  color: goldenrod;
+}
+
+.message {
+  position: absolute;
+  top: 45px;
+  right:5px;
+}
+
+.search input {
+  text-indent: 25px;
+  border: 2px solid #d6d4d4;
+}
+
+.search input:focus {
+  box-shadow: none;
+  border: 1px solid grey;
+}
+
+.search button {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 80px;
+  background: grey;
+}
+
+.centered {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.c {
+  position: absolute;
+  right: 0px;
+}
+
+footer{
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+}
+
+.footer {
+  margin: auto;
+  text-align:center;
+}
+
+#flexbox {
+  gap: 20px 5px;
+}
+
+#clock {
+  text-align: center;
+  color: #FFD700;
+}
+
+h2 {
+  padding-top: 40px;
+}
+
+.content-element {
+  position: relative;
+  top: 50px;
+}
+
+@media only screen and (max-width: 768px) {
+  table {
+    font-size: 10px;
+  }
+
+  p {
+    font-size: 1em;
+  }
+}
+
