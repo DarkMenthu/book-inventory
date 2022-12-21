@@ -61,4 +61,4 @@ Available at: http://localhost:8080/books
 
 ## Overview
 
-![Alt text](https://github.com/DarkMenthu/book-inventory/blob/master/Snip.JPG?raw=true "Snip")
+![Alt text](https://github.com/DarkMenthu/book-inventory/blob/master/Snip.png?raw=true "Snip")
