@@ -58,7 +58,3 @@ Available at: http://localhost:8080/books
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
-## Overview
-
-![Alt text](https://github.com/DarkMenthu/book-inventory/blob/master/Snip.png?raw=true "Snip")
